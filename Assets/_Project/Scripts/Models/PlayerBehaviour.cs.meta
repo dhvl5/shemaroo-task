@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 1e28b6528a4684e4e891f13a48e517bc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Runner: {instanceID: 0}
+  - Object: {instanceID: 0}
+  - playerStats: {instanceID: 0}
+  - playerNameText: {instanceID: 0}
+  - speakingIndicator: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
